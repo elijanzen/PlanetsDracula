@@ -1,3 +1,7 @@
 I like pluto
 Pluto is better!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+<<<<<< HEAD
 I added some stuff
+=======
+I am adding a thing
+>>>>>>> 71d5be8f829361e01c7c3da6fd003b3764923a42
